@@ -1,0 +1,15 @@
+# 依赖与构建产物（不需要进仓库，约占 447 MB）
+node_modules/
+.npmcache/
+package-lock.json
+
+# 系统与编辑器垃圾文件
+.DS_Store
+._*
+Thumbs.db
+*.swp
+*~
+
+# 日志与临时文件
+*.log
+.mmdtmp/
